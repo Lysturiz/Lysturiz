@@ -1,11 +1,17 @@
 
 <p align="center">
-    <img width="200" src="">
+    <img width="1000" src="https://cdn.ttgtmedia.com/visuals/searchCIO/enterprise_software/cio_article_015.jpg">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&center=true&vCenter=true&width=600&height=50&lines=Hi,+I'm+Luis+Ysturiz!;I'm+a+Unicorn+Hunter;Data+Scientist;And+Sarcasm+Master;Welcome+to+my+portfolio!!!!)](https://git.io/typing-svg)
 
- <div align=center>
-        <a href="https://www.linkedin.com/in/lysturiz18/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+<p>
+    Connect with me on
+<br>	
+<a target="_blank" href="https://www.linkedin.com/in/lysturiz18/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+&emsp;
+<a target="_blank" href="mailto:lysturiz18@gmail.com"
+><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+
    </div>
     <div align=left>
         <br>
