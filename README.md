@@ -1,4 +1,5 @@
-<img src="">
+
+<img src="C:\Users\Ain6eru\Downloads\Banner.png">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&center=true&vCenter=true&width=600&height=50&lines=Hi,+I'm+Luis+Ysturiz!;I'm+a+Unicorn+Hunter;Data+Scientist;And+Sarcasm+Master;Welcome+to+my+portfolio!!!!)](https://git.io/typing-svg)
 
