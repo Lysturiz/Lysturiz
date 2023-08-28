@@ -1,11 +1,13 @@
 
 <p align="center">
     <img width="1000" src="https://cdn.ttgtmedia.com/visuals/searchCIO/enterprise_software/cio_article_015.jpg">
-
+<div align="center">
+    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&center=true&vCenter=true&width=600&height=50&lines=Hi,+I'm+Luis+Ysturiz!;I'm+a+Unicorn+Hunter;Data+Scientist;And+Sarcasm+Master;Welcome+to+my+portfolio!!!!)](https://git.io/typing-svg)
 
+<div align="center"
 <p>
-    Connect with me on
+    <h1>Get in touch!!! </h1>
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/lysturiz18/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
@@ -33,14 +35,26 @@
             <li>👨‍💻 <b>Hire me for Full Stack Development jobs</b>: <a href="https://www.upwork.com/freelancers/~0121ca7f3563e57c0b?s=1110580755107926016">Link to my UpWork Full Stack Development Specialization</a>.</li>
             <li>👨‍💻 <b>Hire me for Back-End Development jobs</b>: <a href="https://www.upwork.com/freelancers/~0121ca7f3563e57c0b?s=1110580748673863680">Link to my UpWork Back-End Development Specialization</a>.</li>
         </ul>
-    </div>
+   
+<Br>
+<hr>
+<Br>
+<h1 align="center">Skills I have! 🤸‍♂</h1>
+<Br>
+  
+|![](https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/ML-Supervized%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/ML-Unsupervized%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Web%20Scraping-red?style=for-the-badge)|![](https://img.shields.io/badge/Dashboards-red?style=for-the-badge)|
+|---|---|---|---|---|
+|![](https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Cleaning-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Analysis-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Visualization-blue?style=for-the-badge)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
+  
+  
+<Br>
+<hr>
+<Br>
+<h1 align="center">Tools I use! 🛠️</h1>
+<Br>
+<div align="center">
     
-    - 👋 Hey there, I’m Luis
-- 👀 I’m interested in Video games, music (REAL MUSIC), technology, AI, books, and almost everything that is new and exciting
-- 🌱 I’m currently learning Machine Learning, AI.
-- 📫 How to reach me just send me a message and that's it
-
-<!---
-Lysturiz/Lysturiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+|![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)|![](https://img.shields.io/badge/Tableou-FF6F00?style=for-the-badge&logo=TableouFlow&logoColor=white)|![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)|![](https://img.shields.io/badge/MYSQL-D00000?style=for-the-badge&logo=MYSQL&logoColor=white)|![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)|
+|---|---|---|---|---|
+|![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)|![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)|![](https://img.shields.io/badge/anaconda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)|![](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
+  
